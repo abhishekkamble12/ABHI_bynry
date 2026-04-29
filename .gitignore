@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variable files
+.env
+
+# IDE directories
+.vscode/
+.idea/
+
+# Kiro AI workspace files
+.kiro/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# Local database files
+*.sqlite
+*.db
