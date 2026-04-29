@@ -2,6 +2,8 @@
 
 # 📦 StockFlow — Backend Engineering Case Study
 
+GOOGLE DRIVE LINK : - https://docs.google.com/document/d/18QwtdM6enj5UBWQ7Yaxa_Hjuywued1Oq/edit?usp=sharing&ouid=110805531925547232180&rtpof=true&sd=true
+
 **A production-quality backend case study for a B2B SaaS Inventory Management System**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
